@@ -1,6 +1,7 @@
 # Hi there! 👋
 
 I'm Grzesiek, a 23 years old web and mobile developer from Poland.
+
 I'm a **Junior Full Stack Developer** currently working as a freelancer and collaborating with my former internship employer. I'm also looking for new projects to work on. Let's build something great together! 💻🚀
 
 ## 🛠️ Technologies I work with:
@@ -31,7 +32,7 @@ I'm a **Junior Full Stack Developer** currently working as a freelancer and coll
 - ![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&color=00599C) **C++**
   
 ## 🚀 Current Projects:
-I'm currently working on a mobile app for a **city bus system** using **Android Studio** and **Java**. The app involves backend development with **Spring Boot** and database management with **PostgreSQL**.
+I'm currently working on a mobile app for a **city bus system** using **Android Studio** and **Java**. The app involves backend development with **Spring Boot**.
 
 ## 📚 I'm Learning:
 - **Redis** 🔥 – Implementing caching solutions for better performance.
@@ -43,5 +44,5 @@ If you have a project idea or want to discuss collaboration, feel free to reach 
 ---
 
 Find me also on:
-- [LinkedIn](www.linkedin.com/in/grzegorz-urban-gosqu248) 🌍
+- [LinkedIn](https://www.linkedin.com/in/grzegorz-urban-gosqu248/) 🌍
 - [Email](mailto:grzegorzurban248@gmail.com) 📧
