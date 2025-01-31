@@ -46,3 +46,9 @@ If you have a project idea or want to discuss collaboration, feel free to reach 
 Find me also on:
 - [LinkedIn](https://www.linkedin.com/in/grzegorz-urban-gosqu248/) 🌍
 - [Email](mailto:grzegorzurban248@gmail.com) 📧
+
+### A Little More About Me:
+I'm deeply passionate about **bodybuilding** 💪, and the gym is like a second home to me. Fitness and strength training are not just hobbies; they shape my mindset and drive. In addition, I have a keen interest in **nutrition** 🥗 and **dietetics** to optimize performance and health. When I’m not coding or at the gym, you’ll find me exploring my love for **cars** 🚗 and **mechanics** 🔧, always tinkering and learning more about how things work.
+
+---
+
